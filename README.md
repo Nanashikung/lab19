@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: ปราชญ์ชยา กรณิศทิศารัศม์
+# STUDENT ID:   640610649
